@@ -1,7 +1,5 @@
 # Delaware Certificate of Amendment Template
 
-> **Disclaimer:** This template is provided for informational purposes only and does not constitute legal advice.
-
 **First:** The name of the corporation is **[COMPANY NAME]**.
 
 **Second:** The certificate of incorporation is hereby amended as follows:
